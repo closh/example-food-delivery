@@ -5,7 +5,7 @@
 1.EventStorming Model : Design Level
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/f2535ca5-5b40-4a86-ac52-7c27fac1c030)
 
-2. Saga (Pub / Sub) .- front BC의 Statusupdate policy
+2. Saga (Pub / Sub)
 
 3. CQRS
 
