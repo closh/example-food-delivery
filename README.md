@@ -1,7 +1,29 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
-# 예제 - 음식배달
+# 과제 - 음식배달
+
+1.EventStorming Model : Design Level
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/f2535ca5-5b40-4a86-ac52-7c27fac1c030)
+
+2. Saga (Pub / Sub) .- front BC의 Statusupdate policy
+
+3. CQRS
+
+![image](https://github.com/closh/example-food-delivery/assets/132859922/53ea3e79-9b2c-46b5-a1f4-5a0460c9fe95)
+![image](https://github.com/closh/example-food-delivery/assets/132859922/0f4d46e7-abba-405c-806f-13acc1f64e20)
+
+
+4. Compensation / Correlation
+
+
+
+
+
+---
+---
+---
+---
+
 
 ![image](https://user-images.githubusercontent.com/132859922/237024842-c65af467-cc20-48c8-b47d-76c0e8a6574f.png)
 
