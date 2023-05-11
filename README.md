@@ -2,10 +2,10 @@
 
 # 과제 - 음식배달
 
-1.EventStorming Model : Design Level
+# 1.EventStorming Model : Design Level
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/f2535ca5-5b40-4a86-ac52-7c27fac1c030)
 
-2. Saga (Pub / Sub)
+# 2. Saga (Pub / Sub)
 1) receiveOrder 이벤트 발생  
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/383b32b2-d932-4cae-92b4-d097389a4b90)
 
@@ -13,13 +13,13 @@
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/33a56ef6-6c4f-40a7-b9d2-9a995d02a2fb)
 
 
-3. CQRS
+# 3. CQRS
 
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/53ea3e79-9b2c-46b5-a1f4-5a0460c9fe95)
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/0f4d46e7-abba-405c-806f-13acc1f64e20)
 
 
-4. Compensation / Correlation
+# 4. Compensation / Correlation
 
 
 
