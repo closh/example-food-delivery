@@ -6,6 +6,12 @@
 ![image](https://github.com/closh/example-food-delivery/assets/132859922/f2535ca5-5b40-4a86-ac52-7c27fac1c030)
 
 2. Saga (Pub / Sub)
+1) receiveOrder 이벤트 발생  
+![image](https://github.com/closh/example-food-delivery/assets/132859922/383b32b2-d932-4cae-92b4-d097389a4b90)
+
+2) 그로 인한 updateStatus   
+![image](https://github.com/closh/example-food-delivery/assets/132859922/33a56ef6-6c4f-40a7-b9d2-9a995d02a2fb)
+
 
 3. CQRS
 
